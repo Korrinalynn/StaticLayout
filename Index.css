@@ -1,0 +1,158 @@
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 16px;
+  font-family: Roboto, sans-serif;
+}
+
+.backgroundimage {
+  left: auto;
+  min-height: auto;
+  margin-top: -80px;
+  padding-top: 140px;
+  padding-bottom: 110px;
+  border: 0px none transparent;
+  border-radius: 0px;
+  background-color: #331a5c;
+  background-image: url(../images/gradient-violet-bg.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  -webkit-transition: all 300ms ease;
+  transition: all 300ms ease;
+}
+
+.backgroundimage {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 850px;
+  padding-top: 83px;
+  padding-bottom: 60px;
+  background-color: #000;
+  background-image: url(../StaticLayout/PhotosUsed/kastbackground.jpg);
+  background-position: 70% 30%;
+  background-size: cover;
+  background-clip: border-box;
+}
+
+.backgroundimage {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-clip: border-box;
+}
+
+.laptop {
+  display: flex;
+  max-width: 860px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.container1 a {
+  transition: width 2s;
+  max-width: 860px;
+}
+
+nav {
+  margin: auto;
+  width: 1980px;
+  height: 45px;
+  border: none;
+  box-shadow: none;
+}
+
+.nav ul {
+  list-style: none;
+  background-color: transparent;
+  text-align: center;
+  padding: 0px, 20px;
+  margin: 0;
+}
+.nav li {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  line-height: 32px;
+  height: auto;
+  border-bottom: 1px solid transparent;
+}
+
+.main-nav {
+  text-decoration: none;
+  color: transparent;
+  display: block;
+}
+
+.main-nav {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2em;
+  line-height: 32px;
+  height: auto;
+  border-bottom: 1px solid transparent;
+}
+
+.navbar2 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.kast a:hover {
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+.kast a {
+  -webkit-transition: all 0.1s linear;
+  transition: all 0.1s linear;
+}
+
+.para {
+  display: flex;
+  justify-content: center;
+}
+
+.para-center {
+  max-width: 560px;
+}
+
+.para-center {
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+  color: #fff;
+  text-align: center;
+}
+
+.para-center {
+  margin-bottom: 25px;
+  font-family: Roboto, sans-serif;
+}
+
+.para-center {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
