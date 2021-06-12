@@ -156,3 +156,8 @@ nav {
   margin-top: 0;
   margin-bottom: 10px;
 }
+
+.bottom {
+  display: flex;
+  align-items: baseline;
+}
